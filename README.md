@@ -1,4 +1,4 @@
-# Kotlin_Acesso_a_Biblioteca_Fotos
+# Kotlin_Acesso_a_Biblioteca_de_Fotos
 
 O código foi desenvolvido no Bootcamp everis Kotlin Developer pelo 
 Instrutor Daniel Richter na disciplina "Utilizando recursos nativos do Android".
